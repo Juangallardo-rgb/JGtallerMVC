@@ -26,6 +26,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Dell\Documents\GitHub\JGtallerMVC\JGtallerMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Dell/Documents/GitHub/JGtallerMVC/JGtallerMVC/Views/Burgers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVyZ2Vyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Documents/GitHub/JGtallerMVC/JGtallerMVC/Views/Burgers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVyZ2Vyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Documents/GitHub/JGtallerMVC/JGtallerMVC/Views/Burgers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVyZ2Vyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Documents/GitHub/JGtallerMVC/JGtallerMVC/Views/Burgers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVyZ2Vyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Documents/GitHub/JGtallerMVC/JGtallerMVC/Views/Burgers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVyZ2Vyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Dell/Documents/GitHub/JGtallerMVC/JGtallerMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

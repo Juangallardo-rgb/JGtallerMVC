@@ -2,10 +2,8 @@
 
 namespace JGtallerMVC.Models
 {
-    public class Burguer
+    public class Burger
     {
-        public class Burger
-        {
             public int Id { get; set; }
 
             [Required]
@@ -14,6 +12,6 @@ namespace JGtallerMVC.Models
 
             [Range(0.01, 9999.99)]
             public decimal Precio { get; set; }
-        }
+        
     }
 }

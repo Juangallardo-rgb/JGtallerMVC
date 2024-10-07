@@ -1,4 +1,8 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<JGtallerBDD>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("JGtallerBDD") ?? throw new InvalidOperationException("Connection string 'JGtallerBDD' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
